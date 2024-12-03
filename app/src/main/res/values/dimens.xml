@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <!-- Tamaño de texto para los botones -->
+        <dimen name="texto_botones">18sp</dimen>
+
+</resources>
